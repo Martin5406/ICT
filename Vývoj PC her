@@ -1,0 +1,7 @@
+echo "# ICT" >> README.md 
+git init 
+git add README.md 
+git commit -m "první potvrzení" 
+git větev -M main 
+git remote add origin https://github.com/Martin5406/ICT.git
+ git push - u původ hlavní
