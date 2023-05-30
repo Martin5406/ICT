@@ -16,4 +16,3 @@ Vznik počítačové hry je komplexním proces, který zahrnuje několik fází.
 7. Vydání a podpora
 
 Tyto body jsou detailně popsány v mé prezentaci. 
-V prezentaci jsou uvedený příklady ze studia WarHorse.
