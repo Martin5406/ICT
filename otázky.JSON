@@ -1,0 +1,215 @@
+{
+    "otazky": [
+      {
+        "otazka": "Jak se jmenuje hlavní město Francie?",
+        "moznosti": {
+          "a": "Paříž",
+          "b": "Londýn",
+          "c": "Berlín",
+          "d": "Řím"
+        },
+        "odpoved": "a"
+      },
+      {
+        "otazka": "Která planeta je nejbližší Slunci?",
+        "moznosti": {
+          "a": "Venuše",
+          "b": "Merkur",
+          "c": "Mars",
+          "d": "Jupiter"
+        },
+        "odpoved": "b"
+      },
+      {
+        "otazka": "Kolik měla Sparta titulů v 1. české fotbalové lize po sezóně 2022/2023?",
+        "moznosti": {
+          "a": "35",
+          "b": "36",
+          "c": "37",
+          "d": "38"
+        },
+        "odpoved": "c"
+      },
+      {
+        "otazka": "Který chemický prvek má latinský název calcium?",
+        "moznosti": {
+          "a": "železo",
+          "b": "vápník",
+          "c": "uhlík",
+          "d": "dusík"
+        },
+        "odpoved": "b"
+      },
+      {
+        "otazka": "Jaké bylo historicky nejlepší umístění české fotbalové reprezentace na Mistrovství Evropy?",
+        "moznosti": {
+          "a": "Zlato",
+          "b": "Stříbro",
+          "c": "Bronz",
+          "d": "4.místo"
+        },
+        "odpoved": "b"
+      },
+      {
+        "otazka": "Který český fotbalista vstřelil gól ve finále Ligy mistrů v roce 2005?",
+        "moznosti": {
+          "a": "Pavel Nedvěd",
+          "b": "Milan Baroš",
+          "c": "Jan Koller",
+          "d": "Vladimír Šmicer"
+        },
+        "odpoved": "d"
+      },
+      {
+        "otazka": "Kolik titulů ve Formuli 1 získal Sir Lewis Hamilton do roku 2023?",
+        "moznosti": {
+          "a": "5",
+          "b": "6",
+          "c": "7",
+          "d": "8"
+        },
+        "odpoved": "c"
+      },
+      {
+        "otazka": "Jak se číslo 1220 píše v římských číslicích?",
+        "moznosti": {
+          "a": "MCCXX",
+          "b": "XCIX",
+          "c": "XLIV",
+          "d": "LXXV"
+        },
+        "odpoved": "a"
+      },
+      {
+        "otazka": "Která z následujících vět obsahuje pravopisnou chybu?",
+        "moznosti": {
+          "a": "Dělám si čaj s medem a citronem.",
+          "b": "Dnes jsem šel do obchodu pro chleba a mléko.",
+          "c": "Přečetl jsem skvělou knihu o dobrodrušstvích.",
+          "d": "Včera jsem se potkal se starým kamarádem."
+        },
+        "odpoved": "c"
+      },
+      {
+        "otazka": "Který veleznámý režisér, režiroval film Počátek?",
+        "moznosti": {
+          "a": "Christopher Nolan",
+          "b": "Quentin Tarantino",
+          "c": "Martin Scorsese",
+          "d": "Steven Spielberg"
+        },
+        "odpoved": "a"
+      },
+      {
+        "otazka": "Kterým městem protéká řeka Temže?",
+        "moznosti": {
+          "a": "Paříž",
+          "b": "Praha",
+          "c": "Madrid",
+          "d": "Londýn"
+        },
+        "odpoved": "d"
+      },
+      {
+        "otazka": "Který fotbalový tým získal nejvíce titulů v Lize mistrů?",
+        "moznosti": {
+          "a": "FC Barcelona",
+          "b": "Manchester United",
+          "c": "Real Madrid",
+          "d": "Bayern Mnichov"
+        },
+        "odpoved": "c"
+      },
+      {
+        "otazka": "Kdo napsal knižní sérii Pán Prstenů?",
+        "moznosti": {
+          "a": "J.R.R. Tolkien",
+          "b": "J.K. Rowling",
+          "c": "Dan Brown",
+          "d": "Stephen King"
+        },
+        "odpoved": "a"
+      },
+      {
+        "otazka": "Kdo je historicky nejlepší střelec basketbalové NBA?",
+        "moznosti": {
+          "a": "Wilt Chamberlain",
+          "b": "Michael Jordan",
+          "c": "Lebron James",
+          "d": "Kareem Abdul-Jabbar"
+        },
+        "odpoved": "d"
+      },
+      {
+        "otazka": "Jak se jmenuje nejvyšší hora světa?",
+        "moznosti": {
+          "a": "Mount Kilimanjaro",
+          "b": "Mount Everest",
+          "c": "Mount McKinley",
+          "d": "Mount Fuji"
+        },
+        "odpoved": "b"
+      },
+      {
+        "otazka": "Kolik zlatých medailí vyhrála Česká republika na Mistrovský světa v hokeji do roku 2023?",
+        "moznosti": {
+          "a": "5",
+          "b": "0",
+          "c": "6",
+          "d": "2"
+        },
+        "odpoved": "c"
+      },
+      {
+        "otazka": "Který atlet získal nejvíce zlatých medailí na letních olympijských hrách?",
+        "moznosti": {
+          "a": "Usain Bolt",
+          "b": "Michael Phelps",
+          "c": "Carl Lewis",
+          "d": "Jesse Owens"
+        },
+        "odpoved": "b"
+      },
+      {
+        "otazka": "Který film získal nejvíce Oscarů v historii?",
+        "moznosti": {
+          "a": "Titanic",
+          "b": "Avatar",
+          "c": "Přelet nad kukaččím hnízdem",
+          "d": "Ben Hur"
+        },
+        "odpoved": "a"
+      },
+      {
+        "otazka": "Který znak se používá pro označení železa v periodické tabulce prvků?",
+        "moznosti": {
+          "a": "Au",
+          "b": "Zn",
+          "c": "Ag",
+          "d": "Fe"
+        },
+        "odpoved": "d"
+      },
+      {
+        "otazka": "Který slavný fyzik formuloval teorii relativity?",
+        "moznosti": {
+          "a": "Albert Einstein",
+          "b": "Isaac Newton",
+          "c": "Alfred Nobel",
+          "d": "Galileo Galilei"
+        },
+        "odpoved": "a"
+      },
+      {
+        "otazka": "Kdo namaloval obraz Mona Lisa?",
+        "moznosti": {
+          "a": "Salvador Dalí",
+          "b": "Vincent van Gogh",
+          "c": "Pablo Picasso",
+          "d": "Leornardo da Vinci"
+        },
+        "odpoved": "d"
+      }
+    ]
+  }
+  
